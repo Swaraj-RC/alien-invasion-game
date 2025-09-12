@@ -1,7 +1,7 @@
 # 👾 Alien Invasion Game
 
 A classic **Space Invaders–style game** built in **Python** using **Pygame**.  
-This project is inspired by the book *Python Crash Course* and extended with custom tweaks.
+This project is inspired by the book *Python Crash Course* by *Eric Matthes* and extended with custom tweaks.
 
 ---
 
