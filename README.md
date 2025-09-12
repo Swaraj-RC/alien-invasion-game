@@ -21,8 +21,9 @@ This project is inspired by the book *Python Crash Course* by *Eric Matthes* and
 ```bash
 pip install pygame
 python alien_invasion.py
-
+```
 ## 📁 Project Structure
+```bash
 alien-invasion-game/
 │
 ├── alien_invasion.py   # main game loop
@@ -35,3 +36,4 @@ alien-invasion-game/
 ├── button.py           # start/play button
 ├── images/             # game sprites (ship.bmp, alien.bmp, etc.)
 └── README.md           
+```
