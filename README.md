@@ -40,6 +40,8 @@ alien-invasion-game/
 ## Screenshots
 <img width="1919" height="1019" alt="Screenshot 2025-09-13 124235" src="https://github.com/user-attachments/assets/a3447873-3f5f-422e-9c98-cbfee767e48d" />
 
+---
+
 <img width="1919" height="1020" alt="Screenshot 2025-09-13 124500" src="https://github.com/user-attachments/assets/352464be-3832-4acb-b471-57df737b5624" />
 
 
